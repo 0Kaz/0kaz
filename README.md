@@ -1,6 +1,6 @@
 ## Hello there ! :wave:	
 
-My name is Omar, currently a teacher :teacher: @ Le Wagon and a freelance Fullstack web developer :man_technologist:.
+My name is Omar, currently a project manager/teacher :teacher: @ Le Wagon and a Fullstack web developer :man_technologist:.
 
 :bulb: With inquisitive thinking, I am always learning new design patterns, software development methodologies, and programming languages with an enthusiastic ambition to share my knowledge with the community.
 
