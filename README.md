@@ -8,4 +8,4 @@ Highly engaged to coach and develop others with positive energy, creative soluti
 
 ~ Currently diving in Data Science. :open_book:	:man_technologist:	
 
-~ Lately creating projects with Next.js & React 
+~ Lately managing the campus Le Wagon in Casablanca 🇲🇦
