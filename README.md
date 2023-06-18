@@ -1,11 +1,11 @@
-## Hello there ! :wave:	
+## Hello ! :wave:	
 
-My name is Omar, currently a project manager/teacher :teacher: @ Le Wagon and a Fullstack web developer :man_technologist:.
+Passionate Project Manager, Tech Educator, and Fullstack Web Developer 🚀
 
-:bulb: With inquisitive thinking, I am always learning new design patterns, software development methodologies, and programming languages with an enthusiastic ambition to share my knowledge with the community.
+🧠 Constantly exploring new design patterns, coding techniques, and programming languages with an insatiable thirst for knowledge. Excited to share my expertise with the community! 💡
 
-Highly engaged to coach and develop others with positive energy, creative solutions, and full support in expanding their skills. :pray:	:raised_hands:	
+💪 Empowering others through coaching, creative problem-solving, and unwavering support to help them level up their skills. Let's grow together! 🌱
 
-~ Currently diving in Data Science. :open_book:	:man_technologist:	
+📚 Currently immersed in the fascinating world of Data Science, expanding my horizons and sharpening my coding skills. 👨‍💻📖
 
-~ Lately managing the campus Le Wagon in Casablanca 🇲🇦
+🏢 Managing the dynamic Le Wagon campus in Casablanca 🇲🇦, fueling innovation and transforming lives through tech education. Join us on this exciting journey!
