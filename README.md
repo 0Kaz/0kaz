@@ -12,4 +12,4 @@ Passionate Project Manager, Tech Educator, and Fullstack Web Developer 🚀
 
 ## Skills 
 
-[https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,python,ruby,c,figma,ps,ae,php,laravel,vscode]()
+[![My Skills]([https://skillicons.dev/icons?i=html,css,js,react,vue,nextjs,python,ruby,c,figma,ps,ae,php,laravel,vscode])()
