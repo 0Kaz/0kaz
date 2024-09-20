@@ -17,4 +17,4 @@ Join me in this exhilarating voyage towards innovation, education, and empowerme
 
 ## Skills 
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,python,ruby,c,nextjs,php,laravel,vscode,figma,ps,ae)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,nextjs,react,python,ruby,c,nextjs,php,laravel,vscode,figma,ps,ae)](https://skillicons.dev)
