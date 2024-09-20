@@ -11,7 +11,6 @@ I'm a fervent **Project Manager**, **Tech Educator**, and **Fullstack Web Develo
 
 ### My Professional Sphere
 - 🏢 **Leadership at Le Wagon, Casablanca**: As the manager of the dynamic Le Wagon campus in Casablanca 🇲🇦, I'm at the forefront of fueling innovation and transforming lives through comprehensive tech education. Our mission is to navigate this thrilling journey of technological discovery together.
-- **Instructor in Software Engineering & AI**
 
 ### Let's Connect
 Join me in this exhilarating voyage towards innovation, education, and empowerment. Whether you're looking to level up your tech skills, explore new horizons in Data & AI, or contribute to a transformative educational experience, let's collaborate and make a lasting impact.
